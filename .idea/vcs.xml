@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PadraoAbstractFactory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PadraoBuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PadraoFactoryMethod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PadraoPrototype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PadraoSingleton" vcs="Git" />
+  </component>
+</project>
